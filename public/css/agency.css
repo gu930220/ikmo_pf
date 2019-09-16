@@ -21,6 +21,10 @@ a:hover {
   color: #fec503;
 }
 
+.image{
+  height:360px;
+}
+
 .text-primary {
   color: #fed136 !important;
 }
