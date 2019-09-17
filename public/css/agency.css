@@ -595,14 +595,15 @@ header.masthead .intro-text .intro-heading {
 }
 
 section#contact {
-  background-color: #212529;
-  background-image: url("../img/map-image.png");
+  /* background-color: #212529;
+  background-image: url("../img/map-image.png"); */
   background-repeat: no-repeat;
   background-position: center;
+  text-align: center;
 }
 
 section#contact .section-heading {
-  color: #fff;
+  /* color: #fff; */
 }
 
 section#contact .form-group {
@@ -692,4 +693,13 @@ ul.social-buttons li a {
 
 ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons li a:hover {
   background-color: #fed136;
+}
+
+.Email {
+  font-size: 200%;
+}
+
+.github {
+  width:78px;
+  height:90px;
 }
